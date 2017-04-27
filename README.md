@@ -8,3 +8,4 @@ This repository contains my assignments:
 
 [Assignment week 5](https://github.com/Giannovanwell/Assignments/blob/master/Assignment_week_5.ipynb)
 
+[Assignment week 6](https://github.com/Giannovanwell/Assignments/blob/master/assignment%20week%206..ipynb) 
